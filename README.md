@@ -5,7 +5,7 @@
   
     
  <h3 align="center"> 🚀Tech Stack🚀 </h3>
- <p align="center"><b> Techs that I can handle well </b></p>
+ <p align="center"><b> Techs I can handle well </b></p>
  <div align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></div>  
 <div align="center"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></div>  
 <div align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Jupyter_Note-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></div>  
